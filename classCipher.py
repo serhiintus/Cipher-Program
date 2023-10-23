@@ -1,3 +1,5 @@
+"""Purpose of the class Cipher is encryption and decryption received text with either Bacon's cipher or Caesar cipher."""
+
 class Cipher(object):
     def __init__(self, some_text):
         self.some_text = some_text
