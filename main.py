@@ -2,6 +2,7 @@ from classCipher import Cipher
 
 
 while True:
+    """main menu"""
     print('**************************************************')
     print('\tThe Cipher Program v.1.0\n**************************************************')
     print('\n\t\tMain Menu')
